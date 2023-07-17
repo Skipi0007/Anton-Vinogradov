@@ -17,9 +17,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=for-the-badge&logo=playwright)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=cypress)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=for-the-badge&logo=selenium)&nbsp;
+<a href="https://github.com/Skipi0007/Playwright-tests-example">![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=for-the-badge&logo=playwright)&nbsp;</a>
+<a href="https://github.com/Skipi0007/drivetimeCypress">![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=cypress)&nbsp;</a>
+<a href="https://github.com/Skipi0007/SeleniumKotlin">![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=for-the-badge&logo=selenium)&nbsp;</a>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
